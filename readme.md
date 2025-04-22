@@ -2,9 +2,6 @@
 
 基于TCP协议实现的Linux Socket多客户端通信系统，支持持续对话和并发连接。
 
-![架构示意图](https://via.placeholder.com/800x400.png?text=Client-Server+Architecture)  
-*(注：此处可添加实际架构图)*
-
 ## 功能特性
 
 ### 服务器端
